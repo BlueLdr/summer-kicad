@@ -1,0 +1,24 @@
+(footprint "NetTie24Mil" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp fc68fc9c-1691-41d2-a62c-d8013d2b588d)
+  )
+  (fp_text value "NetTie24Mil" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 3397f221-9a85-4712-9b22-0a082af22204)
+  )
+  (fp_poly
+    (pts
+      (xy -0.3048 -1.1176)
+      (xy -0.3048 1.1176)
+      (xy 0.3048 1.1176)
+      (xy 0.3048 -1.1176)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.Cu") (tstamp 5909e350-87e4-4358-8105-5b938ee06abb))
+  (pad "1" smd roundrect (at 0 -1.7018) (size 0.6096 1.6002) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25)
+    (clearance 0.14986) (tstamp d5c9c954-ad45-4a89-9605-67d7d3f4ff26))
+  (pad "2" smd roundrect (at 0 1.778) (size 0.6096 1.6256) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25)
+    (clearance 0.14986) (tstamp b6de2647-1344-4cda-abb4-eddb448bf71f))
+)
