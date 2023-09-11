@@ -3554,7 +3554,7 @@
     (property "Value" "B30K" (at 228.6 44.45 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_4ms_Potentiometer:Bourns_3362" (at 215.9 52.07 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" (at 215.9 52.07 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/3362.pdf" (at 213.36 52.07 0)

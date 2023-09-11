@@ -664,7 +664,7 @@
       "Net-(U7-GP3)": "Digital",
       "Net-(U7-GP5)": "Digital",
       "Net-(VR1-S)": "Signal",
-      "Vref": "Power"
+      "Vref": "Analog"
     },
     "netclass_patterns": []
   },
